@@ -1,0 +1,23 @@
+
+<canvas width=500 height=500></canvas>
+
+<script src="build/build.js"></script>
+
+<script>
+  var rect = require('rounded-rect');
+  var canvas = document.querySelector('canvas');
+  var ctx = canvas.getContext('2d');
+
+  rect(ctx, .5, .5, 100, 80, 10);
+  ctx.stroke();
+
+  rect(ctx, 50.5, 50.5, 100, 80, 30);
+  ctx.stroke();
+
+  rect(ctx, 100.5, 100.5, 100, 80, 3);
+  ctx.stroke();
+
+  rect(ctx, 150.5, 150.5, 100, 80, 80);
+  ctx.fill();
+
+</script>

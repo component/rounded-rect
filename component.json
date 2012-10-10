@@ -1,0 +1,12 @@
+{
+  "name": "rounded-rect",
+  "repo": "component/rounded-rect",
+  "description": "Rounded canvas rectangles",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
