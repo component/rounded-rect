@@ -3,7 +3,7 @@
   "repo": "component/rounded-rect",
   "description": "Rounded canvas rectangles",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["rounded", "rect", "rectangle", "canvas"],
   "dependencies": {},
   "development": {},
   "scripts": [
